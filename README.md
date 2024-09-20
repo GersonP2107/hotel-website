@@ -6,7 +6,7 @@
 **Royal Hotel** es una página web diseñada para optimizar la reserva de habitaciones y servicios en hoteles. Con una interfaz amigable y opciones de pago seguras, permite a los huéspedes gestionar sus reservas de manera rápida y sencilla, mejorando la experiencia de usuario y la eficiencia del servicio hotelero.
 
 ## Tecnologías Utilizadas:
-- Astro
+- React.js
 - Stripe para pagos
 - API de gestión de reservas
 
