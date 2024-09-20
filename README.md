@@ -1,4 +1,4 @@
-![just-the-basics](https://pin.it/1IbTubftn)
+![just-the-basics](https://i.pinimg.com/736x/14/ea/d2/14ead2f09a3cd8ace747f851a39cac66.jpg)
 
 # Royal Hotel
 
