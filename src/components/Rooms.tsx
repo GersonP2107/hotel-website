@@ -1,4 +1,7 @@
+import React from "react"
+
 const Rooms = () => {
+
     return (
         <section className="section__container room__container">
             <p className="section__subheader">NUESTRAS HABITACIONES</p>
@@ -14,7 +17,7 @@ const Rooms = () => {
         Disfrute del lujo con impresionantes vistas al mar desde su suite privada.
         </p>
         <h5>
-          Desde <span>$299/noche</span>
+          Desde <span>$390.000/noche</span>
         </h5>
         <button className="btn">Reservar ahora</button>
       </div>
@@ -29,7 +32,7 @@ const Rooms = () => {
         Experimente la elegancia urbana y el confort moderno en el corazón de la ciudad.
         </p>
         <h5>
-         Desde <span>$199/noche</span>
+         Desde <span>$250.000/noche</span>
         </h5>
         <button className="btn">Reservar ahora</button>
       </div>
@@ -44,7 +47,7 @@ const Rooms = () => {
         Espacioso y acogedor, perfecto para crear recuerdos preciados con sus seres queridos.
         </p>
         <h5>
-          Desde <span>$249/noche</span>
+          Desde <span>$200.000/noche</span>
         </h5>
         <button className="btn">Reservar ahora</button>
       </div>

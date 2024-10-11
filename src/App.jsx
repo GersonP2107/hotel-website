@@ -1,5 +1,6 @@
 import Header from './components/Header'
 import Checkout from './components/Checkout'
+import Checkout2 from './components/Checkout2'
 import About from './components/About'
 import Rooms from './components/Rooms'
 import Services from './components/Services'
@@ -11,7 +12,7 @@ function App() {
   return (
     <>
       <Header />
-      <Checkout />
+      <Checkout2 />
       <About /> 
       <Rooms />
       <Services />
